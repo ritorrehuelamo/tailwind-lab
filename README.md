@@ -1,2 +1,2 @@
 # tailwind-lab
-Learning Tailwind CSS framework
+Learning [Tailwind CSS](https://tailwindcss.com/) framework
